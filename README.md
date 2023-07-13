@@ -8,6 +8,10 @@ It has:
 Preview of the App:
     
 
+https://github.com/iamrickk/covid_app/assets/107041506/f46a0835-fd2f-44ba-bf75-ca7eaffd0f84
+
+
+
 
 Future Update:
     - more update on UI
