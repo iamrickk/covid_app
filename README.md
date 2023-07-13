@@ -6,7 +6,7 @@ It has:
     - use of user's location to detect nearby hospital
 
 Preview of the App:
-    [Title](../preview.webm)
+    
 
 
 Future Update:
