@@ -1,17 +1,29 @@
 # covid_app
 It is app Consisting of data's such as total cases through out the world.
+
 It has:
+
     - Splash Screen
+    
     - use of API's
+    
     - use of user's location to detect nearby hospital
+    
 
 Preview of the App:
-    [Title](../preview.webm)
+    
+
+https://github.com/iamrickk/covid_app/assets/107041506/f46a0835-fd2f-44ba-bf75-ca7eaffd0f84
+
+
 
 
 Future Update:
+
     - more update on UI
+    
     - adding the feature of worldwide news on Covid.
+    
 
 ## Getting Started
 
